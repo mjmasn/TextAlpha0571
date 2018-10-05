@@ -1,0 +1,3 @@
+rootProject.name = 'TextAlpha0571'
+
+include ':app'
